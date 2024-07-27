@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+.PHONY:
+all:
+	./scripts/file_here
