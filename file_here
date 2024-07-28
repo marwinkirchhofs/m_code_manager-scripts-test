@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
 echo "look at this beautiful file, or script, that actually does absolutely nothing"
-echo "...but still now has a fourth commit to its name"
+echo "...but still now has a fifth commit to its name"
 echo "and now even has a dev branch"
